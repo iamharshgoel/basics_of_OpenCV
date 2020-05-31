@@ -1,4 +1,8 @@
 # basics_of_OpenCV
+
+# Date of commit:- 31st May, 2020
+# Author:- Harsh Goel
+
 This project covers all the basic topics revolving around the OpenCV Library in Python. The topics covered in this project are:-
 1. Basics of Videos
 2. Basics of Images
