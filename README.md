@@ -36,3 +36,4 @@ This project covers all the basic topics revolving around the OpenCV Library in 
 30. Background Subtraction
 31. Mean Shift
 32. Cam Shift
+33. Cartoonify Images
